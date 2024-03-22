@@ -8,6 +8,7 @@ public class HelloWorld {
         System.out.println("Hello Today");
         System.out.println("Hello");
         System.out.println("Hello Test");
+        System.out.println("TGIF");
         
 
         
