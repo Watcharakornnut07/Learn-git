@@ -1,5 +1,6 @@
 public class HelloWorld {
-    public static void main(String[] args){
+    public static void main(String[] args){    
+
         System.out.print("Hello World");
         System.out.println("Hello Chonburi");
         System.out.println("Hello Chonburi 2");
@@ -19,8 +20,7 @@ public class HelloWorld {
         System.out.println("Hello Hello Test");
         System.err.println("hello april 05 2024");
         System.out.println("Hello Hello 09");
-        
-
+        System.out.println("Hello it'is world");
         
     }
 }
