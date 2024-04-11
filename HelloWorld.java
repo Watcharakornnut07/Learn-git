@@ -21,6 +21,7 @@ public class HelloWorld {
         System.err.println("hello april 05 2024");
         System.out.println("Hello Hello 09");
         System.out.println("Hello it'is world");
+        System.out.println("Hello test Hello thuseday");
         
     }
 }
