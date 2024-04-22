@@ -24,6 +24,7 @@ public class HelloWorld {
         System.out.println("Hello test Hello thuseday");
         System.out.println("Hello 12th Month");
         System.out.println("Hello open world");
+        System.out.println("Hello Monday");
         
     }
 }
