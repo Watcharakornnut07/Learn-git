@@ -27,6 +27,7 @@ public class HelloWorld {
         System.out.println("Hello Monday");
         System.out.println("Hello tuseday");
         System.out.println("Hello Wednesday");
+        System.out.println("Hello work");
         
     }
 }
