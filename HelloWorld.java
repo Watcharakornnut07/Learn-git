@@ -31,6 +31,7 @@ public class HelloWorld {
         System.out.println("Hello MOnday/29");
         System.out.println("Hello it me");
         System.out.println("Hello Siam");
+        System.out.println("Hello monday 05");
         
     }
 }
