@@ -33,6 +33,7 @@ public class HelloWorld {
         System.out.println("Hello Siam");
         System.out.println("Hello monday 05");
         System.out.println("Hello tuesday");
+        System.out.println("Hello freeday");
         
     }
 }
