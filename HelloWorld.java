@@ -12,6 +12,7 @@ public class HelloWorld {
         System.out.println("Hello It's me");
         System.out.println("Hello Thuesday");
         System.out.println("Hello TGIF");
+        System.out.println("Hello 06");
 
         
     }
