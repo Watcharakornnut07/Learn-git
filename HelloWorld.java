@@ -6,14 +6,17 @@ public class HelloWorld {
         System.out.println("Hello World IIII");    
         System.out.println("Hello Thuesday");
         System.out.println("Hello siam");
-        System.err.println("Hello World II");
+        System.out.println("Hello World II");
         System.out.println("Hello Test");
         System.out.println("Hello Tuesday 28th");
         System.out.println("Hello It's me");
         System.out.println("Hello Thuesday");
         System.out.println("Hello TGIF");
         System.out.println("Hello 06");
-        System.err.println("Hello 06/06/2024");
+        System.out.println("Hello 06/06/2024");
+        System.out.println("Hello Monday");
+        
+
 
         
     }
