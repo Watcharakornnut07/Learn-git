@@ -16,6 +16,7 @@ public class HelloWorld {
         System.out.println("Hello 06/06/2024");
         System.out.println("Hello Monday");
         System.out.println("Hello UAT iPortman");
+        System.out.println("Hello Hello TGIF");
         
 
 
