@@ -19,7 +19,7 @@ public class HelloWorld {
         System.out.println("Hello Hello TGIF");
         System.out.println("Hello monday II");
         System.out.println("Hello Tuesday");
-        
+        System.out.println("Hello Thuesday II ");     
 
 
         
