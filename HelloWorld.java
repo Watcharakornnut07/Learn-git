@@ -20,8 +20,8 @@ public class HelloWorld {
         System.out.println("Hello monday II");
         System.out.println("Hello Tuesday");
         System.out.println("Hello Thuesday II ");
-        System.out.println("TGIF Hello Friday");     
-
+        System.out.println("TGIF Hello Friday"); 
+        System.out.println("Hello Monday 24");    
 
         
     }
