@@ -24,6 +24,7 @@ public class HelloWorld {
         System.out.println("Hello Monday 24");
         System.out.println("Hello Notion");    
         System.out.println("UAT iPortmam 3rd.");
+        System.out.println("Hello Thursday 27");
 
         
     }
