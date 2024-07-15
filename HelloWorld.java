@@ -10,7 +10,8 @@ public class HelloWorld {
         System.out.println("Hello It'me");
         System.out.println("Hello Word IV SIAM");
         System.out.println("Hello World TGIF");
-        System.err.println("Sawasdee krub");
+        System.out.println("Sawasdee krub");
+        System.out.println("Hello Monday 15th");
         
               
     }
