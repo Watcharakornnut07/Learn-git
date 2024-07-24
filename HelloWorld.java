@@ -18,7 +18,9 @@ public class HelloWorld {
         System.out.println("TGIF");
         System.out.println("Hello Monday 22th");
         System.out.println("Hello fist play football of the month"); 
-        System.err.println("Hello Tuesday");       
+        System.out.println("Hello Tuesday");
+        System.out.println("Hello Weseday xxx , Hello");
+
               
     }
 }
