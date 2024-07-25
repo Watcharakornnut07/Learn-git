@@ -20,6 +20,7 @@ public class HelloWorld {
         System.out.println("Hello fist play football of the month"); 
         System.out.println("Hello Tuesday");
         System.out.println("Hello Weseday xxx , Hello");
+        System.out.println("Hello Thuesday");
 
               
     }
