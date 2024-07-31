@@ -24,6 +24,7 @@ public class HelloWorld {
         System.out.println("Hello Friday");
         System.out.println("Hello world");
         System.out.println("Watcharakornnut");
+        System.out.println("Hello It me watcharakornnut");
 
               
     }
