@@ -25,6 +25,7 @@ public class HelloWorld {
         System.out.println("Hello world");
         System.out.println("Watcharakornnut");
         System.out.println("Hello It me watcharakornnut");
+        System.out.println("Thuesday Watcharakorn job interview");
 
               
     }
