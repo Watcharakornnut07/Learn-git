@@ -4,6 +4,7 @@ public class HelloWorld {
         System.out.println("Hello World"); 
         System.out.println("Hello Monday it's Monday");
         System.out.println("Thuesday");
+        System.out.println("Hello Weseday = Good day");
               
     }
 }
