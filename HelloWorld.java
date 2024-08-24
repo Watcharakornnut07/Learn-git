@@ -13,6 +13,7 @@ public class HelloWorld {
         System.out.println("Hello Monday ");
         System.out.println("Hello Weseday testing");
         System.out.println("Hello TGIF Firday");
+        System.out.println("Hello Saturday");
               
     }
 }
