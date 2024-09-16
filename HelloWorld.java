@@ -8,6 +8,7 @@ public class HelloWorld {
         System.out.println("Hello Weseday  Testing ");
         System.out.println("Hello It me ");
         System.out.println("Hello Saturday");
+        System.out.println("Hello Monday");
               
     }
 }
