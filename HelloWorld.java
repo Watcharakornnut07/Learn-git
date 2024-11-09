@@ -9,6 +9,7 @@ public class HelloWorld {
         System.out.println("Hello It's me monday");
         System.out.println("Hello It's Tuesday");
         System.out.println("Hello Friday ");
+        System.out.println("Hello It Saturday ");
 
               
     }
