@@ -11,6 +11,7 @@ public class HelloWorld {
         System.out.println("Hello it me TGIF ");
         System.out.println("Hello Monday ");
         System.out.println("Hello it me Tuesday ");
+        System.out.println("Hello it wednesday : Hello it's me : ");
         
               
     }
